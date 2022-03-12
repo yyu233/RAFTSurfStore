@@ -1,7 +1,4 @@
 
-
-# Makefile
-
 Run BlockStore server:
 ```console
 $ make run-blockstore
