@@ -1,4 +1,6 @@
 
+RAFT implementation based on: https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14
+
 Run BlockStore server:
 ```console
 $ make run-blockstore
